@@ -101,42 +101,7 @@
 
 
 ---
-<h2 align="center" style="font-family: Arial, sans-serif; color: #333;">🌐 Deployed Websites</h2>
-<p align="center">
-    <img src="https://media.giphy.com/media/wrGFsc5zqOMOk/giphy.gif" width="300" alt="Websites Animation" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
-</p>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 20px;">
-    <div style="text-align: center; background-color: #4285F4; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-        <img src="https://img.shields.io/badge/Shiksha_Shastra-Educational_Platform-ffffff?style=for-the-badge&logo=google-chrome" alt="Shiksha Shastra" />
-        <br>
-        <a href="https://shikshashastra.com" target="_blank" style="text-decoration: none; color: white; font-weight: bold;">Visit Site</a>
-    </div>
-
-  <div style="text-align: center; background-color: #43853D; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-        <img src="https://img.shields.io/badge/E--waste_Tracker-Sustainability_App-ffffff?style=for-the-badge&logo=google-chrome" alt="E-waste Tracker" />
-        <br>
-        <a href="https://ewaste-tracker.com" target="_blank" style="text-decoration: none; color: white; font-weight: bold;">Visit Site</a>
-    </div>
-
-  <div style="text-align: center; background-color: #FF6F00; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-        <img src="https://img.shields.io/badge/Data_Viz_Dashboard-Analytics_Tool-ffffff?style=for-the-badge&logo=google-chrome" alt="Data Viz Dashboard" />
-        <br>
-        <a href="https://data-viz-dashboard.com" target="_blank" style="text-decoration: none; color: white; font-weight: bold;">Visit Site</a>
-    </div>
-
-  <div style="text-align: center; background-color: #009688; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-        <img src="https://img.shields.io/badge/Personal_Portfolio-Web_Resume-ffffff?style=for-the-badge&logo=google-chrome" alt="Personal Portfolio" />
-        <br>
-        <a href="https://jayaniabhiram.com" target="_blank" style="text-decoration: none; color: white; font-weight: bold;">Visit Site</a>
-    </div>
-</div>
-
-<style>
-    div:hover {
-        transform: scale(1.05);
-    }
-</style>
 
 
 ---
