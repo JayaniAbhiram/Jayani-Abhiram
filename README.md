@@ -73,29 +73,30 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="100" /><br>
+      <img src="https://media.giphy.com/media/l4FGxRlHyQFT8Yvyi/giphy.gif" width="100" /><br>
       <b>Shiksha Shastra</b><br>
       Educational Analytics Platform
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="100" /><br>
+      <img src="https://media.giphy.com/media/1zVv1xZWBO5viYUbF5/giphy.gif" width="100" /><br>
       <b>E-waste Recycling Tracker</b><br>
       Sustainability Analytics
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100" /><br>
+      <img src="https://media.giphy.com/media/3o6Zt3sLBVRUjSjvEA/giphy.gif" width="100" /><br>
       <b>Student Performance Predictor</b><br>
       Educational Data Mining
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/xT0xeuOy0pV4dm8RfG/giphy.gif" width="100" /><br>
+      <img src="https://media.giphy.com/media/3o6Zt0vWgiGpxWj7cU/giphy.gif" width="100" /><br>
       <b>Data Visualization Dashboard</b><br>
       Interactive Business Analytics
     </td>
   </tr>
 </table>
+
 
 
 ---
