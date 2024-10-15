@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Hello%2C+World!+%F0%9F%8C%8F;I'm+Jayani+Abhiram;Data+Enthusiast+%7C+Tech+Explorer+%7C+Future+Innovator" alt="Typing SVG" />
 </div>
 
+
 <p align="center">
   <a href="https://github.com/jayaniabhiram"><img src="https://komarev.com/ghpvc/?username=jayaniabhiram&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
   <a href="https://github.com/jayaniabhiram?tab=followers"><img src="https://img.shields.io/github/followers/jayaniabhiram?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"></a>
