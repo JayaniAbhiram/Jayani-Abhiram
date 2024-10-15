@@ -46,7 +46,7 @@
 
 ---
 
-<h2 align="center">📊 Data Analysis Journey</h2>
+<h2 align="center">📊 What I am Into</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
