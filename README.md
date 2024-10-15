@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2KJp84HcJtQ58c/giphy.gif" width="150" alt="Creative Coding" />
+  <img src="https://media.giphy.com/media/l0HlKzF7XOb4x5oe0/giphy.gif" width="150" alt="Tech Background" />
 </div>
 
 
