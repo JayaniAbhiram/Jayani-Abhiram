@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Brainstorming" />
+  <img src="https://media.giphy.com/media/xT0xeuOy5WZn7WwM2g/giphy.gif" width="150" alt="Abstract Technology" />
 </div>
 
 
