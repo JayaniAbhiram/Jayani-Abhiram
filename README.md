@@ -63,7 +63,7 @@
   🔬 Exploring Machine Learning algorithms<br>
   📈 Passionate about Data Visualization<br>
   🧠 Implementing Predictive Models<br>
-  🤖 Experimenting with Natural Language Processing
+  🤖 Exploring the intersection of AI and Data Analysis
 </p>
 
 ---
