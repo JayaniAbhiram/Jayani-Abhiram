@@ -1,6 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=40&duration=2000&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=900&height=150&lines=Hello%2C+World!+%F0%9F%8C%8F;I'm+Jayani+Abhiram;Data+Enthusiast+%7C+Tech+Explorer+%7C+Future+Innovator;Let%27s+Create+Something+Amazing!" alt="Typing SVG" />
+<div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); border-radius: 15px; padding: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=40&duration=2000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=900&height=150&lines=Hello%2C+World!+%F0%9F%8C%8F;I'm+Jayani+Abhiram;Data+Enthusiast+%7C+Tech+Explorer+%7C+Future+Innovator;Let%27s+Create+Something+Amazing!" alt="Typing SVG" style="animation: glow 1.5s infinite alternate;"/>
 </div>
+
+<style>
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #ffcc00, 0 0 10px #ffcc00, 0 0 15px #ffcc00, 0 0 20px #ffcc00;
+  }
+  100% {
+    text-shadow: 0 0 10px #ffcc00, 0 0 20px #ffcc00, 0 0 30px #ffcc00, 0 0 40px #ffcc00;
+  }
+}
+</style>
+
 
 
 
