@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBq8/giphy.gif" width="150" alt="Design Icon" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Brainstorming" />
 </div>
 
 
