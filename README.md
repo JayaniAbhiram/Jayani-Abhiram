@@ -100,6 +100,33 @@
 </table>
 
 
+<h2 align="center">🌐 Deployed Websites</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/wrGFsc5zqOMOk/giphy.gif" width="300" />
+</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Shiksha_Shastra-Educational_Platform-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
+      <a href="https://shikshashastra.com" target="_blank">Visit Site</a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/E--waste_Tracker-Sustainability_App-43853D?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
+      <a href="https://ewaste-tracker.com" target="_blank">Visit Site</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data_Viz_Dashboard-Analytics_Tool-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
+      <a href="https://data-viz-dashboard.com" target="_blank">Visit Site</a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Personal_Portfolio-Web_Resume-009688?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
+      <a href="https://jayaniabhiram.com" target="_blank">Visit Site</a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
