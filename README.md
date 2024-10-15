@@ -104,7 +104,7 @@
 
 ---
 
-<h2 align="center">🎵 When I'm Not Crunching Numbers</h2>
+<h2 align="center">🎵 When else I do</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="100" />
@@ -116,7 +116,7 @@
   🎸 Exploring new music genres<br>
   🌍 Planning my next adventure<br>
   📚 Reading about the latest tech trends<br>
-  🧘 Practicing mindfulness and meditation
+  🧘 Practicing mindfulness and exploring new places
 </p>
 
 ---
