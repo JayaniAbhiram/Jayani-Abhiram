@@ -1,17 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Jayani+Abhiram;B.Tech+CSE+Student;Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Hello%2C+World!+%F0%9F%8C%8F;I'm+Jayani+Abhiram;Data+Enthusiast+%7C+Tech+Explorer+%7C+Future+Innovator" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayaniabhiram&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/jayaniabhiram"><img src="https://komarev.com/ghpvc/?username=jayaniabhiram&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
+  <a href="https://github.com/jayaniabhiram?tab=followers"><img src="https://img.shields.io/github/followers/jayaniabhiram?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"></a>
 </p>
 
-<h2 align="center">About Me 🎓</h2>
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <strong>B.Tech Computer Science Engineering Student</strong><br>
-  JK Lakshmipat University, Jaipur | Expected Graduation: 2025<br>
-  CGPA: 8.1
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  🎓 B.Tech CSE Student at JK Lakshmipat University<br>
+  📊 Aspiring Data Analyst | 💻 Tech Enthusiast | 🌐 Web Developer<br>
+  🔍 Always curious, always learning!
 </p>
 
 <p align="center">
@@ -21,87 +26,101 @@
 
 ---
 
-<h2 align="center">Technical Proficiencies 💻</h2>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<h3 align="center">Areas of Interest</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-E74C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Analysis-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Development-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
 </p>
 
 ---
 
-<h2 align="center">Professional Experience 🚀</h2>
+<h2 align="center">📊 Data Analysis Journey</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  🔬 Exploring Machine Learning algorithms<br>
+  📈 Passionate about Data Visualization<br>
+  🧠 Implementing Predictive Models<br>
+  🤖 Experimenting with Natural Language Processing
+</p>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Software_Developer-Wisdom_Kids_School-9B59B6?style=for-the-badge" /><br>
-      April 2023 - July 2023
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" /><br>
+      <b>Shiksha Shastra</b><br>
+      Educational Analytics Platform
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="100" /><br>
+      <b>E-waste Recycling Tracker</b><br>
+      Sustainability Analytics
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Web_Developer-Atal_Incubation_Centre-F39C12?style=for-the-badge" /><br>
-      January 2023 - April 2023
+      <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="100" /><br>
+      <b>Student Performance Predictor</b><br>
+      Educational Data Mining
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100" /><br>
+      <b>Data Visualization Dashboard</b><br>
+      Interactive Business Analytics
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">Notable Projects 🌟</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Shiksha Shastra: Teach for Change</strong><br>
-      Educational web application with donation integration
-    </td>
-    <td align="center">
-      <strong>E-waste Recycling System</strong><br>
-      Real-time tracking of e-waste recycling process
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Student Scores Management</strong><br>
-      Data analysis of student performance factors
-    </td>
-    <td align="center">
-      <strong>Data Analysis Web App</strong><br>
-      Visual data cleaning and Excel sheet analysis tool
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Academic Performance 📊</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayaniabhiram&show_icons=true&theme=transparent&title_color=3498db&text_color=2c3e50&icon_color=3498db" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayaniabhiram&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaniabhiram&theme=transparent&ring=3498db&fire=e74c3c&currStreakNum=2c3e50&sideNums=3498db&currStreakLabel=3498db&sideLabels=2c3e50&dates=95a5a6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaniabhiram&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">Let's Connect 🤝</h2>
+<h2 align="center">🎵 When I'm Not Crunching Numbers</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/12P0S6I62q2KNO/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
+</p>
+
+<p align="center">
+  🎸 Exploring new music genres<br>
+  🌍 Planning my next adventure<br>
+  📚 Reading about the latest tech trends<br>
+  🧘 Practicing mindfulness and meditation
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect and Collaborate!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaniabhiram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -110,5 +129,5 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+profile!;Let's+innovate+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=F74C4C&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+innovate+together!+%F0%9F%9A%80;Stay+curious%2C+keep+learning!+%F0%9F%8C%9F" alt="Farewell Typing SVG" />
 </div>
