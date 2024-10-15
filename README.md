@@ -100,33 +100,33 @@
 </table>
 
 
-<h2 align="center">🌐 Deployed Websites</h2>
+<h2 align="center" style="color: #3498DB; font-family: 'Arial', sans-serif;">🌐 Deployed Websites</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/wrGFsc5zqOMOk/giphy.gif" width="300" />
 </p>
-<table align="center">
+
+<table align="center" style="border-collapse: collapse; margin-top: 20px;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 2px solid #3498DB; border-radius: 10px; background-color: rgba(52, 152, 219, 0.1); transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
       <img src="https://img.shields.io/badge/Shiksha_Shastra-Educational_Platform-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
-      <a href="https://shikshashastra.com" target="_blank">Visit Site</a>
+      <a href="https://shikshashastra.com" target="_blank" style="text-decoration: none; color: #3498DB; font-weight: bold; transition: color 0.3s;">Visit Site</a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 2px solid #43853D; border-radius: 10px; background-color: rgba(67, 133, 61, 0.1); transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
       <img src="https://img.shields.io/badge/E--waste_Tracker-Sustainability_App-43853D?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
-      <a href="https://ewaste-tracker.com" target="_blank">Visit Site</a>
+      <a href="https://ewaste-tracker.com" target="_blank" style="text-decoration: none; color: #43853D; font-weight: bold; transition: color 0.3s;">Visit Site</a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 2px solid #FF6F00; border-radius: 10px; background-color: rgba(255, 111, 0, 0.1); transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
       <img src="https://img.shields.io/badge/Data_Viz_Dashboard-Analytics_Tool-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
-      <a href="https://data-viz-dashboard.com" target="_blank">Visit Site</a>
+      <a href="https://data-viz-dashboard.com" target="_blank" style="text-decoration: none; color: #FF6F00; font-weight: bold; transition: color 0.3s;">Visit Site</a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 2px solid #009688; border-radius: 10px; background-color: rgba(0, 150, 136, 0.1); transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
       <img src="https://img.shields.io/badge/Personal_Portfolio-Web_Resume-009688?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
-      <a href="https://jayaniabhiram.com" target="_blank">Visit Site</a>
+      <a href="https://jayaniabhiram.com" target="_blank" style="text-decoration: none; color: #009688; font-weight: bold; transition: color 0.3s;">Visit Site</a>
     </td>
   </tr>
 </table>
-
 
 ---
 
