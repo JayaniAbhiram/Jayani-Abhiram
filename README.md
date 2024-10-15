@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=40&duration=2000&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=900&height=150&lines=Hello%2C+World!+%F0%9F%8C%8F;I'm+Jayani+Abhiram;Data+Enthusiast+%7C+Tech+Explorer+%7C+Future+Innovator;Let%27s+Create+Something+Amazing!" alt="Typing SVG" />
 </div>
 
----
 
 
 
@@ -113,7 +112,7 @@
 
 ---
 
-<h2 align="center">🎵 When else I do</h2>
+<h2 align="center">🎵 What else I do</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="100" />
